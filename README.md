@@ -5,6 +5,7 @@
 Instagram scraper, with support for users and tags.
 
 Get a public users media, or search for a specific tag, without having to register an app.
+
 Since this library uses the web version of Instagram to scrape content, it can break at any time
 should the returned source code for these pages change. Use in production is therefore discouraged.
 
