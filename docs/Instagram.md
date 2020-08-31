@@ -5,7 +5,7 @@
 |[getUser](#instagramgetuser)|Get public users media|
 |[getTag](#instagramgettag)|Get public media with specified tag|
 
-## Instagram::getName  
+## Instagram::getUser
 
 **Description**
 
@@ -28,7 +28,7 @@ Returns false on errors, or when no items are found.
 
 <hr />
 
-## Instagram::getName  
+## Instagram::getTag
 
 **Description**
 
