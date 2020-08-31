@@ -1,0 +1,33 @@
+{
+    "name": "andreekeberg/instagram-scraper",
+    "type": "library",
+    "description": "Instagram scraper, with support for users and tags",
+    "keywords": [
+        "instagram",
+        "scraper",
+        "instagram-scraper"
+    ],
+    "homepage": "https://github.com/andreekeberg/instagram-scraper",
+    "readme": "README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Ekeberg",
+            "email": "hello@andreekeberg.se",
+            "homepage": "https://andreekeberg.se"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/andreekeberg/instagram-scraper/issues"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+    }
+}
