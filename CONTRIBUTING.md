@@ -45,4 +45,4 @@ All code should follow the [PSR-12: Extended Coding Style](https://www.php-fig.o
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing to Instagram Scraper, you agree that your contributions will be licensed under its MIT License.
